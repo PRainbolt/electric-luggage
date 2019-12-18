@@ -1,5 +1,4 @@
 package com.example.demoapplication
-
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
